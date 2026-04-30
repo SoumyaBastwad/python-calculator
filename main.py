@@ -2,10 +2,10 @@
 
 operator =input("Enter an operator (+ - * /):")
 if operator == "+":
-   pass
+   result= num1+num2
 elif operator == "-":
-   pass
+   result= num1-num2
 elif operator == "*":
-   pass  
+   result= num1*num2  
 elif operator == "/":
-   pass
+   result= num1/num2
