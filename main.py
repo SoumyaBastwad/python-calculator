@@ -5,4 +5,7 @@ if operator == "+":
    pass
 elif operator == "-":
    pass
-  
+elif operator == "*":
+   pass  
+elif operator == "/":
+   pass
