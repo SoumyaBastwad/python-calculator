@@ -1,4 +1,4 @@
-# Python Calcultour
+# Python Calcultour for simple arthematic opeations
 
 operator =input("Enter an operator (+ - * /):")
 
